@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex report"] 1540498243 "report.aux" "report.bbl" "report" 1540498254
+["bibtex report"] 1540499016 "report.aux" "report.bbl" "report" 1540499016
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "references.bib" 1540498224 1121 694e3adc035790e94bc31e4b7b3f4a2d ""
+  "references.bib" 1540499011 1121 727cfb821c3d6b168939b36f5b57c123 ""
   "report.aux" 1540498254 3307 f472d5a4f0841d42968ea8ed73c04660 ""
   "report.bcf" 0 -1 0 ""
   (generated)
   "report.blg"
   "report.bbl"
-["pdflatex"] 1540498243 "/home/alex.olar@odigeo.org/Documents/GitHub/photoZ/report/report.tex" "report.pdf" "report" 1540498254
+["pdflatex"] 1540498243 "/home/alex.olar@odigeo.org/Documents/GitHub/photoZ/report/report.tex" "report.pdf" "report" 1540499016
   "/etc/texmf/web2c/texmf.cnf" 1534677846 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/alex.olar@odigeo.org/Documents/GitHub/photoZ/report/report.tex" 1540498235 20881 a59b25c19f43fdef49229de7233436fc ""
+  "/home/alex.olar@odigeo.org/Documents/GitHub/photoZ/report/report.tex" 1540499016 20881 a59b25c19f43fdef49229de7233436fc ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0800.tfm" 1480098696 3584 269b66e921ba58750c12f7f1c8ea3ebd ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1480098696 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -155,11 +155,11 @@
   "modelmagscolor.png" 1538307886 43281 97d3f97d03883acca4f83a748b2d24d8 ""
   "petromagscolor.png" 1538307886 45597 93db9dfdd6cff6de41886a8f6ef98bd1 ""
   "report.aux" 1540498254 3307 f472d5a4f0841d42968ea8ed73c04660 ""
-  "report.bbl" 1540498243 984 42d3c859944358805c4d3013422359da "bibtex report"
-  "report.tex" 1540498235 20881 a59b25c19f43fdef49229de7233436fc ""
+  "report.bbl" 1540499016 984 42d3c859944358805c4d3013422359da "bibtex report"
+  "report.tex" 1540499016 20881 a59b25c19f43fdef49229de7233436fc ""
   "report.toc" 1540498254 577 568ad51f1869c046ffcc21f8e88c467b ""
   (generated)
-  "report.aux"
-  "report.log"
   "report.toc"
+  "report.aux"
   "report.pdf"
+  "report.log"
