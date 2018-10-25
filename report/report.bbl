@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{lephare}
+Ilbert~O. Arnouts~S.
+\newblock Le phare photometric analysis for redshift estimate.
+\newblock 1999.
+
+\bibitem{beck}
+Róbert Beck.
+\newblock Photometric redshifts for the sdss data release 12.
+\newblock 2016.
+
+\bibitem{csabai}
+István Csabai.
+\newblock Reconstructing galaxy spectral energy distributions from broadband
+  photometry.
+\newblock 2000.
+
+\bibitem{voservices}
+Filter Profile~Service for~the Virtual~Observatory.
+\newblock http://voservices.net/filter/.
+\newblock 2003.
+
+\bibitem{qbeer}
+Alex Olar.
+\newblock https://github.com/qbeer/photoz.
+\newblock 2018.
+
+\bibitem{myblog}
+Alex Olar.
+\newblock https://qbeer.github.io/projects.
+\newblock 2018.
+
+\bibitem{pandas}
+Pandas.
+\newblock https://pandas.pydata.org/.
+\newblock 2018.
+
+\bibitem{sklearn}
+scikit learn.
+\newblock http://scikit-learn.org/stable/.
+\newblock 2018.
+
+\bibitem{server}
+SDDS SkyServer.
+\newblock http://skyserver.sdds.org.
+\newblock 2011.
+
+\end{thebibliography}
